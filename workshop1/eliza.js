@@ -214,6 +214,9 @@ var rules = {
     "When?",
     "What incident are you thinking of?",
     "Really--always?",
+    ],
+  "~*x Sana here ~*y": [
+  	"Hey Sana"
   ],
   "~*x what ~*y": [
     "Why do you ask?",
